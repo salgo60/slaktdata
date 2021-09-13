@@ -11,7 +11,7 @@ se om vi kan koppla ihop Slaktdata med Wikidata
             1. https://hub.toolforge.org/P778:156206?property=P5324  --> kyrkboken
         2. P625 koordinat
             1. https://hub.toolforge.org/P778:156206?property=P625 --> Open Street Map koordinat kyrkan i församlingen
-               1. Intressant att Open Street Map på kyrkan = [way/364562584](https://www.openstreetmap.org/way/364562584) har en koppling till kyrkan = WD [Q10717959](https://www.wikidata.org/wiki/Q10717959)
+               1. Intressant att Open Street Map för kyrkan = [way/364562584](https://www.openstreetmap.org/way/364562584) har en koppling till kyrkan = WD [Q10717959](https://www.wikidata.org/wiki/Q10717959)
         1. ersätter = [Property:P1365](https://www.wikidata.org/wiki/Property:P1365) --> en församling ersätter en socken
             1. https://hub.toolforge.org/P778:156206?property=P1365 --> socken
             2. https://hub.toolforge.org/P778:156206?property=P1365|P6303  --> går till [P6303](https://www.wikidata.org/wiki/Property:P6303) som är Anbytarforum
