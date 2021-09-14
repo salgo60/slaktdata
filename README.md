@@ -16,7 +16,7 @@ se om vi kan koppla ihop Slaktdata med Wikidata
             1. https://hub.toolforge.org/P778:156206?property=P1365 --> socken
             2. https://hub.toolforge.org/P778:156206?property=P1365|P6303  --> går till [P6303](https://www.wikidata.org/wiki/Property:P6303) som är Anbytarforum
             3. https://hub.toolforge.org/P778:156206?property=P1365|P5536  --> går till [P5536](https://www.wikidata.org/wiki/Property:P5536) som är SOFI = ISOF gamla register
-                 4. Finns ett nytt ISOF namn register men det blev massa tjafs så jag kopplade inte dom och ingen annan verkar ha gjort det se [länk](https://www.wikidata.org/wiki/Wikidata:Property_proposal/Place#ISOF_Place_(en)_%E2%80%93_(V%C3%A4nligen_%C3%B6vers%C3%A4tt_detta_till_svenska.))
+                4. Finns ett nytt ISOF namn register men det blev massa tjafs så jag kopplade inte dom och ingen annan verkar ha gjort det se [länk](https://www.wikidata.org/wiki/Wikidata:Property_proposal/Place#ISOF_Place_(en)_%E2%80%93_(V%C3%A4nligen_%C3%B6vers%C3%A4tt_detta_till_svenska.))
         1. ersatt av = [Property:P1366](https://www.wikidata.org/wiki/Property:P1366) --> distrikt
             1. https://hub.toolforge.org/P778:156206?property=P1366|P6192 --> går till [P6192](https://www.wikidata.org/wiki/Property:P6192) --> Hembygdsportalen
 
