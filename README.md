@@ -1,5 +1,5 @@
 # Släktdata - [www.slaktdata.org](https://www.slaktdata.org/)
-se om vi kan koppla ihop Släktdata med [Wikidata](https://www.wikidata.org) ([video](https://www.youtube.com/watch?v=m_9_23jXPoE)). Släktdata är kyrkböcker som skrivs av - en rad per person i boken ([json](
+se om vi kan koppla ihop Släktdata med [Wikidata](https://www.wikidata.org) ([video](https://www.youtube.com/watch?v=m_9_23jXPoE)). Släktdata är kyrkböcker som skrivs av - en rad per person i boken (exempel en post [json](
 https://www.slaktdata.org/?p=getregbyid&sldid=156206_F7_710)). Osäkert hur koppling till plats syns. Vore dock enormt intressant att 
 * koppla plats till ISOF platsregister och till [Riksarkivet Toras](https://riksarkivet.se/tora) register
 * koppla plats och person till [Hembyggsföreningens nya web](https://www.hembygd.se/shf/plats/1442)
