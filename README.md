@@ -6,7 +6,7 @@ se om vi kan koppla ihop Släktdata med Wikidata. Släkta data är kyrkböcker s
 
 ## Funderingar
 1. Se vad som finns i Wikidata som kan hjälpa Släktdata
-     1. Modell Arkiv Digital [T199907](https://phabricator.wikimedia.org/T199907) --> matcha NAD med Wikidata objekt och skapa kartor?
+     1. Modell Arkiv Digital [T199907](https://phabricator.wikimedia.org/T199907) --> matcha NAD med Wikidata objekt och skapa kartor? se [FB där Arkiv Digital](https://www.facebook.com/arkivdigital/posts/3000089753350216) berättar om den nya funktionalitetem
      1. Se om data i Wikidata kan använda för att länka vidare ex. med [Hub verktyget](https://hub.toolforge.org/)
         1. scbkod = 156206 --> Wikidata Property:P778 --> https://hub.toolforge.org/P778:156206 --> Wikidata "Västerlanda församling"
         2. https://hub.toolforge.org/P778:156206?lang=sv --> sv:Wikipedia
@@ -32,5 +32,5 @@ se om vi kan koppla ihop Släktdata med Wikidata. Släkta data är kyrkböcker s
    6. Dödsorsaker finns även i [SWEPUB](https://swedpop.se/wp-content/uploads/2021/07/Principles-of-Coding-Cause-of-Death.pdf)  
 7. TORA projektet har en kartdel se [toramaptest.riksarkivet.se/view](http://toramaptest.riksarkivet.se/view) 
     1. I Wikidata har vi inte kopplat Tora fullt ut se 590 kopplade objekt på en [karta](http://tinyurl.com/y88mgl2k) 
-8. [Svensk Porträttarkiv](https://portrattarkiv.se/about) finns kopplat till några 1000 personer via [P4819](https://www.wikidata.org/wiki/Property:P4819) till Wikidata se [karta](http://tinyurl.com/y9l6btcb) / [blogpost](http://minancestry.blogspot.com/2018/02/svenskt-portrattarkiv_10.html). 
+8. [Svensk Porträttarkiv](https://portrattarkiv.se/about) finns kopplat till några 1000 personer via [P4819](https://www.wikidata.org/wiki/Property:P4819) till Wikidata se [karta](https://goo.gl/KBFnPe) / [blogpost](http://minancestry.blogspot.com/2018/02/svenskt-portrattarkiv_10.html). 
 9. ?!?!?!?    
