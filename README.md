@@ -23,6 +23,7 @@ se om vi kan koppla ihop Slaktdata med Wikidata
         4. ersatt av = [Property:P1366](https://www.wikidata.org/wiki/Property:P1366) --> distrikt
             1. https://hub.toolforge.org/P778:156206?property=P1366|P6192 --> går till [P6192](https://www.wikidata.org/wiki/Property:P6192) --> Hembygdsportalen
 
-3. Alla yrken finns som textsträngar kan vi extrahera dom och skapa vanligaste yrkena i Kyrkböcerna och lägga till dom till Wikidata... se tankar att få fart på våra institutioner att dela struktur hur yrken för en person beskrivs [salgo60/HISCOKoder](https://github.com/salgo60/HISCOKoder)
+3. Alla yrken finns som textsträngar i Släktdata kan vi extrahera dom och skapa vanligaste yrkena i Kyrkböcerna och lägga till dom till Wikidata... se tankar att få fart på våra institutioner att dela struktur hur yrken för en person beskrivs [salgo60/HISCOKoder](https://github.com/salgo60/HISCOKoder)
 4. jag skapar ny en koppling med [Svenskt Porträttarkiv]() där tanken är att med ett klick hämta data/bild se [salgo60/spa2Commons](https://github.com/salgo60/spa2Commons) kan vi göra något liknande? SLäktdata har ett API se test [Jupiter Notebook](https://github.com/salgo60/slaktdata/blob/main/Jupyter/Slaktdata.ipynb)
-    
+5. Släktdata har även dödsorsaker som vore trevligt att ha i Wikidata och som artiklar i Wikipedia
+1. ?!?!?!?    
