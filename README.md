@@ -46,5 +46,5 @@ https://www.slaktdata.org/?p=getregbyid&sldid=156206_F7_710)). Osäkert hur kopp
        1. se [karta](https://w.wiki/3Fz9) och se [längre artikel om dataroundtripping](https://meta.wikimedia.org/wiki/Structured_data_for_GLAM-Wiki/Roundtripping/KMB), jag pratade om detta på LD4 se [video](https://www.youtube.com/watch?v=GeDXzInR_mA)      
 14. ?!?!?!?    
 
+* exempel nedan [karta](https://w.wiki/3Fz9) böcker hos Litteraturbanken om Runstenar där runstenen finns på bild och finns i Wikidata där Wikidata refererar en bok hos Litteraturbanken och vilken sida Runstenen finns beskriven på....
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Swedish_Literature_Bank_runes.png/1600px-Swedish_Literature_Bank_runes.png)
-15. 
