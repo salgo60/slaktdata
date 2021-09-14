@@ -27,4 +27,5 @@ se om vi kan koppla ihop Slaktdata med Wikidata
 4. jag skapar ny en koppling med [Svenskt Porträttarkiv]() där tanken är att med ett klick hämta data/bild se [salgo60/spa2Commons](https://github.com/salgo60/spa2Commons) kan vi göra något liknande? Släktdata har ett API se test [Jupiter Notebook](https://github.com/salgo60/slaktdata/blob/main/Jupyter/Slaktdata.ipynb)
 5. Släktdata har även dödsorsaker som vore trevligt att ha i Wikidata och som artiklar i Wikipedia
    6. Dödslrsaker finns även i [SWEPUB](https://swedpop.se/wp-content/uploads/2021/07/Principles-of-Coding-Cause-of-Death.pdf)  
-7. ?!?!?!?    
+7. TORA projektet har en kartdel se [toramaptest.riksarkivet.se/view](http://toramaptest.riksarkivet.se/view) 
+8. ?!?!?!?    
