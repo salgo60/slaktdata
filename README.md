@@ -23,8 +23,8 @@ https://www.slaktdata.org/?p=getregbyid&sldid=156206_F7_710)). Osäkert hur kopp
             2. https://hub.toolforge.org/P778:156206?property=P4820 ---> Tora [P4820](https://www.wikidata.org/wiki/Property:P4820) SPARQL      
         3. ersätter = [Property:P1365](https://www.wikidata.org/wiki/Property:P1365) --> en församling ersätter en socken
             1. https://hub.toolforge.org/P778:156206?property=P1365 --> socken
-            2. https://hub.toolforge.org/P778:156206?property=P1365|P6303  --> går till [P6303](https://www.wikidata.org/wiki/Property:P6303) som är Anbytarforum
-            3. https://hub.toolforge.org/P778:156206?property=P1365|P5536  --> går till [P5536](https://www.wikidata.org/wiki/Property:P5536) som är SOFI = ISOF gamla register
+            2. https://hub.toolforge.org/P778:156206?property=P1365|P6303  --> går till socken --> till [P6303](https://www.wikidata.org/wiki/Property:P6303) som är Anbytarforum
+            3. https://hub.toolforge.org/P778:156206?property=P1365|P5536  --> går till socken --> [P5536](https://www.wikidata.org/wiki/Property:P5536) som är SOFI = ISOF gamla register
                 1. Finns ett nytt ISOF namnregister men det blev massa tjafs så jag kopplade inte dom och ingen annan verkar ha gjort det se [länk](https://www.wikidata.org/wiki/Wikidata:Property_proposal/Place#ISOF_Place_(en)_%E2%80%93_(V%C3%A4nligen_%C3%B6vers%C3%A4tt_detta_till_svenska.))
         4. ersatt av = [Property:P1366](https://www.wikidata.org/wiki/Property:P1366) --> distrikt
             1. https://hub.toolforge.org/P778:156206?property=P1366|P6192 --> går till [P6192](https://www.wikidata.org/wiki/Property:P6192) --> Hembygdsportalen
