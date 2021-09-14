@@ -5,7 +5,7 @@ se om vi kan koppla ihop Slaktdata med Wikidata
 1. Se vad som finns i Wikidata som kan hjälpa Släktdata
      1. Modell Arkiv Digital [T199907](https://phabricator.wikimedia.org/T199907) --> matcha NAD med Wikidata objekt och skapa kartor?
      1. Se om data i Wikidata kan använda för att länka vidare ex. med [Hub verktyget](https://hub.toolforge.org/)
-        1. scbkod = 156206 --> Wikidata Property:P778 --> https://hub.toolforge.org/P778:156206 --> Wikidata
+        1. scbkod = 156206 --> Wikidata Property:P778 --> https://hub.toolforge.org/P778:156206 --> Wikidata "Västerlanda församling"
         2. https://hub.toolforge.org/P778:156206?lang=sv --> sv:Wikipedia
         3. [P5324](https://www.wikidata.org/wiki/Property:P5324) är Riksarkivets NAD egenskap
             1. https://hub.toolforge.org/P778:156206?property=P5324  --> kyrkboken
@@ -15,6 +15,7 @@ se om vi kan koppla ihop Slaktdata med Wikidata
         1. ersätter = [Property:P1365](https://www.wikidata.org/wiki/Property:P1365) --> en församling ersätter en socken
             1. https://hub.toolforge.org/P778:156206?property=P1365 --> socken
             2. https://hub.toolforge.org/P778:156206?property=P1365|P6303  --> går till [P6303](https://www.wikidata.org/wiki/Property:P6303) som är Anbytarforum
+            3. https://hub.toolforge.org/P778:156206?property=P1365|P5536  --> går till [P5536](https://www.wikidata.org/wiki/Property:P5536) som är SOFI gamla register
         1. ersatt av = [Property:P1366](https://www.wikidata.org/wiki/Property:P1366) --> distrikt
             1. https://hub.toolforge.org/P778:156206?property=P1366|P6192 --> går till [P6192](https://www.wikidata.org/wiki/Property:P6192) --> Hembygdsportalen
 
