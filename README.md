@@ -26,4 +26,5 @@ se om vi kan koppla ihop Slaktdata med Wikidata
 3. Alla yrken finns som textsträngar i Släktdata kan vi extrahera dom och skapa vanligaste yrkena i Kyrkböcerna och lägga till dom till Wikidata... se tankar att få fart på våra institutioner att dela struktur hur yrken för en person beskrivs [salgo60/HISCOKoder](https://github.com/salgo60/HISCOKoder)
 4. jag skapar ny en koppling med [Svenskt Porträttarkiv]() där tanken är att med ett klick hämta data/bild se [salgo60/spa2Commons](https://github.com/salgo60/spa2Commons) kan vi göra något liknande? SLäktdata har ett API se test [Jupiter Notebook](https://github.com/salgo60/slaktdata/blob/main/Jupyter/Slaktdata.ipynb)
 5. Släktdata har även dödsorsaker som vore trevligt att ha i Wikidata och som artiklar i Wikipedia
-1. ?!?!?!?    
+   6. Dödslrsaker finns även i [SWEPUB](https://swedpop.se/wp-content/uploads/2021/07/Principles-of-Coding-Cause-of-Death.pdf)  
+7. ?!?!?!?    
