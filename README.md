@@ -40,5 +40,11 @@ https://www.slaktdata.org/?p=getregbyid&sldid=156206_F7_710)). Osäkert hur kopp
 09. Jag nämde projektet [Stadens ansikte](https://stockholmia.stockholm.se/forskning/projekt/stadens-ansikten/?fbclid=IwAR3IPyyBwZa2mQKvrsJ5WQpzcGXvFIPREiCUtTdqJL9cJNDLdf5wtwCKvlY). Jag har bara pratat kort med dom men känns som dom borde koppla er se det jag skrev [T268374](https://phabricator.wikimedia.org/T268374)
 10. Rektifiera gamla kartor: verktyg finns för att rektifiera kartor dvs. man scannr en karta och laddar upp den, sedan positionerar man några punkter ==> att den scannade kartan kan visas som overlay på dagens karta se [POC jag gjorde i javascript/ Leaflet](https://jsfiddle.net/salgo60/0L3ofn9h/show), [video](https://www.youtube.com/watch?v=BWq_j6NWOic), verktyget [Wikiwarper](https://warper.wmflabs.org/maps/3042#Preview_tab)
    1. Exempel [video](https://youtu.be/yGBVPw36oAw) hur svenska kartor finns i Wikicommons (alla kan ladda upp fria kartor) och kan arbetas med i [Wiki Warper] 
-12. ?!?!?!?    
-13. 
+12. [Semantisk interoperabilitet](https://en.wikipedia.org/wiki/Semantic_interoperability) innebär att System A förstår vad System B pekar på. Vi har nu skapat detta för bilder dvs. en bild som har ett motiv en person, en plats, en händlse kan vi söka fram...
+   1. Kan vi ha platser i Wikidata för husförhören med semantisk imnteroperabilitet till Släktdata och bilder i WIkicommons?!?!?
+   2. Jag har skapat kartor med objekt som har semantisk interoperabilitet för svenska Runstenar och Litteraturbanken och [boken Bautil](https://sv.wikipedia.org/wiki/Bautil) från 1750
+       1. se [karta](https://w.wiki/3Fz9) och se [längre artikel om dataroundtripping](https://meta.wikimedia.org/wiki/Structured_data_for_GLAM-Wiki/Roundtripping/KMB), jag pratade om detta på LD4 se [video](https://www.youtube.com/watch?v=GeDXzInR_mA)      
+14. ?!?!?!?    
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Swedish_Literature_Bank_runes.png/1600px-Swedish_Literature_Bank_runes.png)
+15. 
