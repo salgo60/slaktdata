@@ -28,4 +28,5 @@ se om vi kan koppla ihop Slaktdata med Wikidata
 5. Släktdata har även dödsorsaker som vore trevligt att ha i Wikidata och som artiklar i Wikipedia
    6. Dödslrsaker finns även i [SWEPUB](https://swedpop.se/wp-content/uploads/2021/07/Principles-of-Coding-Cause-of-Death.pdf)  
 7. TORA projektet har en kartdel se [toramaptest.riksarkivet.se/view](http://toramaptest.riksarkivet.se/view) 
-8. ?!?!?!?    
+    1. I Wikidata har vi inte kopplat Tora fullt ut se 590 kopplade objekt på en [karta](http://tinyurl.com/y88mgl2k) 
+9. ?!?!?!?    
