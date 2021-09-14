@@ -35,4 +35,6 @@ se om vi kan koppla ihop Släktdata med Wikidata. Släktdata är kyrkböcker som
 7. TORA projektet har en kartdel se [toramaptest.riksarkivet.se/view](http://toramaptest.riksarkivet.se/view) 
     1. I Wikidata har vi inte kopplat Tora fullt ut se 590 kopplade objekt på en [karta](http://tinyurl.com/y88mgl2k) 
 8. [Svensk Porträttarkiv](https://portrattarkiv.se/about) finns kopplat till några 1000 personer via [P4819](https://www.wikidata.org/wiki/Property:P4819) till Wikidata se [karta](https://goo.gl/KBFnPe) / [blogpost](http://minancestry.blogspot.com/2018/02/svenskt-portrattarkiv_10.html). 
-9. ?!?!?!?    
+9. ISOF har jag besökt och skissat på detta med namn och dialekter men vi saknar en bra dialog se tankar [T235881(https://phabricator.wikimedia.org/T235881) / [T235738](https://phabricator.wikimedia.org/T235738)
+10. ?!?!?!?    
+11. 
