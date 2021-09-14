@@ -17,7 +17,7 @@ https://www.slaktdata.org/?p=getregbyid&sldid=156206_F7_710)). Osäkert hur kopp
             1. https://hub.toolforge.org/P778:156206?property=P5324  --> kyrkboken
         2. P625 koordinat
             1. https://hub.toolforge.org/P778:156206?property=P625 --> Open Street Map koordinat kyrkan i församlingen
-               1. Intressant att Open Street Map för kyrkan = [way/364562584](https://www.openstreetmap.org/way/364562584) har en koppling till kyrkan = WD [Q10717959](https://www.wikidata.org/wiki/Q10717959)
+               1. Intressant att Open Street Map för kyrkan = [way/364562584](https://www.openstreetmap.org/way/364562584) har en koppling till kyrkan = WD [Q10717959](https://www.wikidata.org/wiki/Q10717959) -  se [video](https://youtu.be/NyXrOdOGlFA)
         1. Kopplingar Riksarkivet finns men borde nog kvalitetssäkras. [Tora](https://riksarkivet.se/tora) har valt att ha ett objekt för både socken och församling vilket känns lite tveksamt... men den används i projekt [SWEPOP](https://swedpop.se/data-description/)
             1. https://hub.toolforge.org/P778:156206?property=P7434 --> NAD plats-ID [P7434](https://www.wikidata.org/wiki/Property:P7434)
             2. https://hub.toolforge.org/P778:156206?property=P4820 ---> Tora [P4820](https://www.wikidata.org/wiki/Property:P4820) SPARQL      
