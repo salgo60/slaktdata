@@ -47,6 +47,6 @@ https://www.slaktdata.org/?p=getregbyid&sldid=156206_F7_710)). Osäkert hur kopp
 14. ?!?!?!?    
 
 * exempel nedan [karta](https://w.wiki/3Fz9) böcker hos Litteraturbanken om Runstenar där runstenen finns på bild och finns i Wikidata där Wikidata refererar en bok hos Litteraturbanken och vilken sida Runstenen finns beskriven på.... bilderna på runstenarna har semantisk interoperabilitet med Wikidata och Wikidata har semantisk interoperabilitet med egenskap [P1261 Samnordisk runtextdatabas signum](https://www.wikidata.org/wiki/Property:P1261) men även RAÄs nya applikation
-[Evighetsrunor](https://www.raa.se/kulturarv/runor-och-runstenar/projekt-om-runor/projektet-evighetsrunor/)
-* jag har även kopplat boken "[Bellman var där. En vägvisare till Bellmansmiljöer (1997)](https://litteraturbanken.se/f%C3%B6rfattare/Anders%C3%A9nML/titlar/BellmanVarD%C3%A4r/sida/3/faksimil?om-boken)" [karta](https://w.wiki/mYA) / [graf](https://w.wiki/mYV)
+[Evighetsrunor](https://www.raa.se/kulturarv/runor-och-runstenar/projekt-om-runor/projektet-evighetsrunor/) - se även [github Litteraturbanken_wd_runes](https://github.com/salgo60/Litteraturbanken_wd_runes)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Swedish_Literature_Bank_runes.png/1600px-Swedish_Literature_Bank_runes.png)
+* jag har även kopplat boken "[Bellman var där. En vägvisare till Bellmansmiljöer (1997)](https://litteraturbanken.se/f%C3%B6rfattare/Anders%C3%A9nML/titlar/BellmanVarD%C3%A4r/sida/3/faksimil?om-boken)" [karta](https://w.wiki/mYA) / [graf](https://w.wiki/mYV)
