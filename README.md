@@ -1,5 +1,8 @@
-# Släktdata
-se om vi kan koppla ihop Slaktdata med Wikidata
+# Släktdata - [www.slaktdata.org](https://www.slaktdata.org/)
+se om vi kan koppla ihop Släktdata med Wikidata. Släkta data är kyrkböcker som skrivs av - en rad per person i boken. Osäkert hur koppling till plats syns. Vore dock enormt intressant att 
+* koppla plats till ISOF platsregoster och till Toras register
+* yrken "normaliseras" och finns i Wikidata och som artiklar i Wikipedia
+* dödsorsaker "normaliseras" och finns i WIkidata/Wikipedia 
 
 ## Funderingar
 1. Se vad som finns i Wikidata som kan hjälpa Släktdata
