@@ -1,5 +1,6 @@
 # Släktdata - [www.slaktdata.org](https://www.slaktdata.org/)
-se om vi kan koppla ihop Släktdata med Wikidata. Släktdata är kyrkböcker som skrivs av - en rad per person i boken. Osäkert hur koppling till plats syns. Vore dock enormt intressant att 
+se om vi kan koppla ihop Släktdata med Wikidata. Släktdata är kyrkböcker som skrivs av - en rad per person i boken ([json](
+https://www.slaktdata.org/?p=getregbyid&sldid=156206_F7_710)). Osäkert hur koppling till plats syns. Vore dock enormt intressant att 
 * koppla plats till ISOF platsregoster och till Toras register
 * koppla plats och person till Hembyggsflöreningens web
   * i Wikidata har vi kopplat ihop oss med Bygdeband se [salgo60/WikidataBygdeband](https://github.com/salgo60/WikidataBygdeband) den nya Hembyggdsförenings web:en kan hantera plats och person rel. enkelt 
