@@ -5,7 +5,7 @@ https://www.slaktdata.org/?p=getregbyid&sldid=156206_F7_710)). Osäkert hur kopp
 * koppla plats och person till [Hembyggsföreningens nya web](https://www.hembygd.se/shf/plats/1442)
   * i Wikidata har vi kopplat ihop oss med Bygdeband se [salgo60/WikidataBygdeband](https://github.com/salgo60/WikidataBygdeband) den nya Hembyggdsförenings web:en kan hantera plats ex. [plats/438644](https://www.hembygd.se/hallasockenforening/plats/438644) och person [plats/438644/person/84878](https://www.hembygd.se/hallasockenforening/plats/438644/person/84878) rel. enkelt 
 * yrken skulle kunna "normaliseras" och dom vanligaste finnas i Wikidata och som artiklar i svenska Wikipedia se [Kategori:Historiska_yrken](https://sv.wikipedia.org/wiki/Kategori:Historiska_yrken)
-* dödsorsaker "normaliseras" och finns i Wikidata/Wikipedia 
+* dödsorsaker skulle kunna "normaliseras" och finns i Wikidata/Wikipedia se [Kategori:Dödsorsaker](https://sv.wikipedia.org/wiki/Kategori:D%C3%B6dsorsaker) 
 
 ## Funderingar
 1. Se vad som finns i Wikidata som kan hjälpa Släktdata
